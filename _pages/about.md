@@ -10,7 +10,7 @@ I am Su Lingjie(苏凌杰), a master student in the second year. from the State 
 
 Algorithm Theory: The mathematical theory in my research includs optimization theory, statistics (especially Gaussian Mixture Model and EM algorithm), iterative solution method and preconditioning of linear function, and bilateral filtering method.
 
-Algorithm Application: 
+Algorithm Application: These designed algorithms can be used for robot pose estimation, localization of parts, evaluation of machining quality, parts visualization.
 
 you can find my CV [here](../assets/CV.pdf).
 
