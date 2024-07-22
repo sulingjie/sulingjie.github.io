@@ -14,6 +14,8 @@ I am Su Lingjie(苏凌杰), a master student in the second year. from the State 
 
 <strong>Algorithm Application</strong>: These designed algorithms can be used for robot pose estimation, localization of parts, evaluation of machining quality, and visualization.
 
+</p>
+
 you can find my CV [here](../assets/CV.pdf).
 
 Publications
@@ -25,7 +27,9 @@ Publications
   
 2. <strong>L. Su</strong> et al., “An adaptive anisotropic bilateral filtering method for mesh data in scale space,” *Meas. Sci. Technol.*, vol 35, no. 6, 
 2024, [doi: 10.1088/1361-6501/ad317e](https://iopscience.iop.org/article/10.1088/1361-6501/ad317e)
+   
 </p>
+
 Research Experience
 ======
 
