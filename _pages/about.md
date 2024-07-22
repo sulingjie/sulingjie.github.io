@@ -8,13 +8,14 @@ redirect_from:
 ---
 <p style="text-align:justify; text-justify:inter-ideograph;">
 I am Su Lingjie(苏凌杰), a master student in the second year. from the State Key Laboratory of Intelligent Manufacturing in Huazhong University of Science and Technology (HUST). supervised by Prof. WenLong Li. Before this, I obtained bachlor degree in School of Mechanical Science and Engineering in HUST. My research focuses on point cloud registration, surface reconstruction, and mesh denoising. The research topics provide the robots the ability to percept and understand the surroundings and high quality data for robotic inspection and measurement.
+</p>
 
-**Algorithm Theory**: The mathematical theory in my research includs optimization theory, statistics (especially Gaussian Mixture Model and EM algorithm), iterative solution method and preconditioning of linear function, and bilateral filtering method.
+**Algorithm Theory**: <p style="text-align:justify; text-justify:inter-ideograph;"> The mathematical theory in my research includs optimization theory, statistics (especially Gaussian Mixture Model and EM algorithm), iterative solution method and preconditioning of linear function, and bilateral filtering method. </p>
 
-**Algorithm Application**: These designed algorithms can be used for robot pose estimation, localization of parts, evaluation of machining quality, and visualization.
+**Algorithm Application**: <p style="text-align:justify; text-justify:inter-ideograph;"> These designed algorithms can be used for robot pose estimation, localization of parts, evaluation of machining quality, and visualization. </p>
 
 you can find my CV [here](../assets/CV.pdf).
-</p>
+
 Publications
 ======
 
