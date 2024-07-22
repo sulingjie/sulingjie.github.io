@@ -32,6 +32,7 @@ Publications
 
 Research Experience
 ======
+
 1.Point Cloud Reconstruction and Multi-view Registration
 --------
 <p style="text-align:justify; text-justify:inter-ideograph;">
@@ -61,6 +62,7 @@ Three-dimensional mesh data of parts, such as blades and engine bodies, have bee
 
 Teaching and volunteer
 ======
+
 1.Volunteer for high-school student tour in HUST
 --------
 
