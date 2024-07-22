@@ -23,9 +23,9 @@ Publications
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 1. <strong>L. Su</strong>, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” 
-<oblique>IEEE Trans. Instrum. Meas.</oblique>, 2024, Under Review.  <br>
+<i>IEEE Trans. Instrum. Meas.</i>, 2024, Under Review.  <br>
   
-2. <strong>L. Su</strong> et al., “An adaptive anisotropic bilateral filtering method for mesh data in scale space,” <oblique>Meas. Sci. Technol.</oblique>, vol 35, no. 6, 
+2. <strong>L. Su</strong> et al., “An adaptive anisotropic bilateral filtering method for mesh data in scale space,” <i>Meas. Sci. Technol.</i>, vol 35, no. 6, 
 2024, <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad317e">doi: 10.1088/1361-6501/ad317e</a>
    
 </p>
