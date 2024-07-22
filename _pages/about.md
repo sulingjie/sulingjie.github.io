@@ -16,6 +16,11 @@ you can find my CV [here](../assets/CV.pdf).
 
 Publications
 ======
+1. **L. Su**, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” 
+*IEEE Trans. Instrum. Meas.*, 2024, Under Review.
+2. **L. Su** et al., “An adaptive anisotropic bilateral filtering method for mesh data in scale space,” *Meas. Sci. Technol.*, vol 35, no. 6, 
+2024, [doi: 10.1088/1361-6501/ad317e](https://iopscience.iop.org/article/10.1088/1361-6501/ad317e)
+
 Projects(毕设，中冶两个软件，配准论文两篇，中观网格化滤波，曲面重建)
 ======
 
