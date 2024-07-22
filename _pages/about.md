@@ -70,7 +70,7 @@ Teaching and volunteer
     <img src="../images/volunteer.png" alt="volunteer image" style="width: 95%;">
 </p>
 <p style="text-align:justify; text-justify:inter-ideograph;">
-I once volunteered to guide high school students visiting Huazhong University of Science and Technology (HUST). My main responsibilities included leading them to various sites around the campus, introducing them to information about the university, and providing details about our school's development and some of our research achievements. 
+I once volunteered to guide high school students visiting Huazhong University of Science and Technology (HUST). My main responsibilities included leading them to various sites around the campus, introducing them to information about the university, and providing details about our school's development and some of our research achievements. <br>
 </p>
 
 2.Teaching assistent in experimental class for exchange students
