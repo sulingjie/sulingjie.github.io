@@ -35,21 +35,25 @@ Research Experience
 
 Point Cloud Reconstruction and Multi-view Registration
 ------
-
+<p style="text-align:justify; text-justify:inter-ideograph;">
 In the point cloud measurement process, the 3D sensor needs to be equipped at different positions due to the limited working range of the sensor or large size of the measured parts (such as car body). This project focuses on how to integrete the point clouds from different perspetives with the following procedures. (1) Estabilished binocular imaging model and calibrated the internal and external parameters of camera. Reconstructed the centers of marked points, including elliptic fitting, poar constraints and triangulartion. Matched marked points under different perspectives with spatial invariant characteristics and registered point clouds coarsly. (2) Construced the objective function of minimizing the mean square error of correspondent points in overlapping areas. Used gradient decent method and graph optimization method to solve the optimization problem.
+</p>
+
 ![measurement scene](../images/multi_reg.png)
 
 Probability-based Point Cloud Registration
 ------
-
+<p style="text-align:justify; text-justify:inter-ideograph;">
 In robotic inspection of aviation parts, achieving accurate pairwise point cloud registration between scanned and model data is essential. However, noise and outliers generated in robotic scanned data can compromise registration accuracy. To mitigate this challenge, this article proposes a probability-based registration method utilizing Gaussian Mixture Model (GMM) with local consistency constraint. This method converts the registration problem into a model fitting one, constraining the similarity of posterior distributions between neighboring points to enhance correspondence robustness. We employ the Expectation Maximization algorithm iteratively to find optimal rotation matrix and translation vector while obtaining GMM parameters. Both E-step and M-step have closed-form solutions. Simulation and actual experiments confirm the method's effectiveness, reducing root mean square error by 20% despite the presence of noise and outliers. The proposed method excels in robustness and accuracy compared to existing methods.
+</p>
 
 ![registration with GMM](../images/reg_GMM.png)
 
 Anosotropic Bilateral Mesh Filtering
 ------
-
+<p style="text-align:justify; text-justify:inter-ideograph;">
 Three-dimensional mesh data of parts, such as blades and engine bodies, have been widely used in industrial fields. Due to the different kinds of noise during mesh acquisition and the machining deficiency of parts, the mesh quality tends to be insufficient for subsequent operations. Therefore, mesh denoising is a necessary and critical procedure to improve mesh quality. Existing methods commonly apply geometry features smoothing, which may also create unexpected results, such as volume shrinkage and blurring of sharp edges. This paper proposed an adaptive anisotropic bilateral filtering method for mesh data in scale space. Firstly, the mesh is decomposed into a smooth base with low frequency and a height vector field with high frequency based on scale space theory. The denoising of the vertex spatial field is transformed into the denoising of the height vector field, aiming to only consider high-frequency information. Secondly, the bilateral filter scheme with the anisotropic Gaussian kernel is proposed to denoise the height vector field, removing noise mixed with features. The parameters in the bilateral filter scheme are chosen adaptively by maximizing the designed probability density function. The mean square angular error of the proposed method is less than 0.15rad, which is superior to the general-purpose algorithms, for instance, Laplacian filtering, bilateral mesh filtering and bilateral normal filtering algorithm.
+</p>
 
 ![registration with GMM](../images/mesh_denoise.png)
 
@@ -68,6 +72,7 @@ Volunteer for high-school student tour in HUST
 <p style="text-align:justify; text-justify:inter-ideograph;">
 I once volunteered to guide high school students visiting Huazhong University of Science and Technology (HUST). My main responsibilities included leading them to various sites around the campus, introducing them to information about the university, and providing details about our school's development and some of our research achievements. 
 </p>
+
 Teaching assistent in experimental class for exchange students
 ------
 
