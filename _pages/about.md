@@ -8,14 +8,15 @@ redirect_from:
 ---
 I am Su Lingjie(苏凌杰), a master student in the second year. from the State Key Laboratory of Intelligent Manufacturing in Huazhong University of Science and Technology (HUST). supervised by Prof. WenLong Li. Before this, I obtained bachlor degree in School of Mechanical Science and Engineering in HUST. My research focuses on point cloud registration, surface reconstruction, and mesh denoising. The research topics provide the robots the ability to percept and understand the surroundings and high quality data for robotic inspection and measurement.
 
-Algorithm Theory: The mathematical theory in my research includs optimization theory, statistics (especially Gaussian Mixture Model and EM algorithm), iterative solution method and preconditioning of linear function, and bilateral filtering method.
+**Algorithm Theory**: The mathematical theory in my research includs optimization theory, statistics (especially Gaussian Mixture Model and EM algorithm), iterative solution method and preconditioning of linear function, and bilateral filtering method.
 
-Algorithm Application: These designed algorithms can be used for robot pose estimation, localization of parts, evaluation of machining quality, parts visualization.
+**Algorithm Application**: These designed algorithms can be used for robot pose estimation, localization of parts, evaluation of machining quality, and visualization.
 
 you can find my CV [here](../assets/CV.pdf).
 
 Publications
 ======
+
 1. **L. Su**, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” 
 *IEEE Trans. Instrum. Meas.*, 2024, Under Review.
 2. **L. Su** et al., “An adaptive anisotropic bilateral filtering method for mesh data in scale space,” *Meas. Sci. Technol.*, vol 35, no. 6, 
@@ -23,6 +24,20 @@ Publications
 
 Projects(毕设，中冶两个软件，配准论文两篇，中观网格化滤波，曲面重建)
 ======
+
+Point Cloud Reconstruction and Multi-view Registration
+=======
+
+Probability-based Point Cloud Registration
+=======
+
+Anosotropic Bilateral Mesh Filtering
+======
+
+Implicit B-spline Surface Reconstruction
+======
+
+
 
 A data-driven personal website
 ======
