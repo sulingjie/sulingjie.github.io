@@ -29,9 +29,7 @@ Point Cloud Reconstruction and Multi-view Registration
 ------
 
 In the point cloud measurement process, the 3D sensor needs to be equipped at different positions due to the limited working range of the sensor or large size of the measured parts (such as car body). This project focuses on how to integrete the point clouds from different perspetives with the following procedures. (1) Estabilished binocular imaging model and calibrated the internal and external parameters of camera. Reconstructed the centers of marked points, including elliptic fitting, poar constraints and triangulartion. Matched marked points under different perspectives with spatial invariant characteristics and registered point clouds coarsly. (2) Construced the objective function of minimizing the mean square error of correspondent points in overlapping areas. Used gradient decent method and graph optimization method to solve the optimization problem.
-![measurement scene](../images/robotic_measurement.png)
-![measurement scene](../images/before_optimization.png)
-![measurement scene](../images/after_optimization.png)
+![measurement scene](../images/multi_reg.png)
 
 Probability-based Point Cloud Registration
 ------
