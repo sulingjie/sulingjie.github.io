@@ -62,7 +62,10 @@ I once volunteered to guide high school students visiting Huazhong University of
 Teaching assistent in experimental class for exchange students
 ------
 
+<p style="float: left; width: 50%;">
+    <img src="../images/teaching volunteer.png" alt="volunteer image" style="width: 90%;">
+</p>
 
-
+I am serving as a teaching assistant for a robotics measurement course during a summer exchange program at Huazhong University of Science and Technology. My responsibilities include explaining the principles and operational procedures of robotic control, the principles and usage of 3D scanners, and the principles of point cloud registration to eight exchange students from France, as well as guiding them in completing robotic measurement experiments.
 
 
