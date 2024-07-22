@@ -14,15 +14,16 @@ I am Su Lingjie(苏凌杰), a master student in the second year. from the State 
 **Algorithm Application**: These designed algorithms can be used for robot pose estimation, localization of parts, evaluation of machining quality, and visualization.
 
 you can find my CV [here](../assets/CV.pdf).
-
+</p>
 Publications
 ======
 
+<p style="text-align:justify; text-justify:inter-ideograph;">
 1. **L. Su**, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” 
 *IEEE Trans. Instrum. Meas.*, 2024, Under Review.
 2. **L. Su** et al., “An adaptive anisotropic bilateral filtering method for mesh data in scale space,” *Meas. Sci. Technol.*, vol 35, no. 6, 
 2024, [doi: 10.1088/1361-6501/ad317e](https://iopscience.iop.org/article/10.1088/1361-6501/ad317e)
-
+</p>
 Research Experience
 ======
 
@@ -58,15 +59,16 @@ Volunteer for high-school student tour in HUST
 <p style="float: left; width: 50%;">
     <img src="../images/volunteer.png" alt="volunteer image" style="width: 90%;">
 </p>
+<p style="text-align:justify; text-justify:inter-ideograph;">
 I once volunteered to guide high school students visiting Huazhong University of Science and Technology (HUST). My main responsibilities included leading them to various sites around the campus, introducing them to information about the university, and providing details about our school's development and some of our research achievements. 
-
+</p>
 Teaching assistent in experimental class for exchange students
 ------
 
 <p style="float: left; width: 50%;">
     <img src="../images/teaching_assistant.png" alt="volunteer image" style="width: 90%;">
 </p>
-
+<p style="text-align:justify; text-justify:inter-ideograph;">
 I am serving as a teaching assistant for a robotics measurement course during a summer exchange program at Huazhong University of Science and Technology. My responsibilities include explaining the principles and operational procedures of robotic control, the principles and usage of 3D scanners, and the principles of point cloud registration to eight exchange students from France, as well as guiding them in completing robotic measurement experiments.
 </p>
 
