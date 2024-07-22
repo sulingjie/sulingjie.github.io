@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p style="text-align:justify; text-justify:inter-ideograph;">
 I am Su Lingjie(苏凌杰), a master student in the second year. from the State Key Laboratory of Intelligent Manufacturing in Huazhong University of Science and Technology (HUST). supervised by Prof. WenLong Li. Before this, I obtained bachlor degree in School of Mechanical Science and Engineering in HUST. My research focuses on point cloud registration, surface reconstruction, and mesh denoising. The research topics provide the robots the ability to percept and understand the surroundings and high quality data for robotic inspection and measurement.
 
 **Algorithm Theory**: The mathematical theory in my research includs optimization theory, statistics (especially Gaussian Mixture Model and EM algorithm), iterative solution method and preconditioning of linear function, and bilateral filtering method.
@@ -67,5 +68,5 @@ Teaching assistent in experimental class for exchange students
 </p>
 
 I am serving as a teaching assistant for a robotics measurement course during a summer exchange program at Huazhong University of Science and Technology. My responsibilities include explaining the principles and operational procedures of robotic control, the principles and usage of 3D scanners, and the principles of point cloud registration to eight exchange students from France, as well as guiding them in completing robotic measurement experiments.
-
+</p>
 
