@@ -51,7 +51,7 @@ In robotic inspection of aviation parts, achieving accurate pairwise point cloud
     <img src="../images/reg_GMM.png" alt="registration with GMM" style="width: 100%;">
 </p>
 <p style="float: left; width: 40%;">
-    <img src="../images/reg_blade.gif" alt="blade registration gif" style="width: 90%;">
+    <img src="../images/reg_blade.gif" alt="blade registration gif" style="width: 100%;"> <br>
 </p>
 
 
