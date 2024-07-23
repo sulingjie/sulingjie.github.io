@@ -74,7 +74,7 @@ For better visualization and analysis, mesh data are requeied to be reconstructe
 
 
 
-Teaching and volunteer
+Teaching and Volunteer
 ======
 
 1.Volunteer for high-school student tour in HUST
