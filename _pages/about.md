@@ -47,8 +47,13 @@ In the point cloud measurement process, the 3D sensor needs to be equipped at di
 In robotic inspection of aviation parts, achieving accurate pairwise point cloud registration between scanned and model data is essential. However, noise and outliers generated in robotic scanned data can compromise registration accuracy. To mitigate this challenge, this article proposes a probability-based registration method utilizing Gaussian Mixture Model (GMM) with local consistency constraint. This method converts the registration problem into a model fitting one, constraining the similarity of posterior distributions between neighboring points to enhance correspondence robustness. We employ the Expectation Maximization algorithm iteratively to find optimal rotation matrix and translation vector while obtaining GMM parameters. Both E-step and M-step have closed-form solutions. Simulation and actual experiments confirm the method's effectiveness, reducing root mean square error by 20% despite the presence of noise and outliers. The proposed method excels in robustness and accuracy compared to existing methods.
 </p>
 
-![registration with GMM](../images/reg_GMM.png)
-![blade registration gif](../images/reg_blade.gif)
+<p style="float: left; width: 50%;">
+    <img src="../images/reg_GMM.png" alt="registration with GMM" style="width: 95%;">
+</p>
+<p style="float: left; width: 50%;">
+    <img src="../images/reg_blade.gif" alt="blade registration gif" style="width: 95%;">
+</p>
+
 
 3.Anosotropic Bilateral Mesh Filtering
 --------
