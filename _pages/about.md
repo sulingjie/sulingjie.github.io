@@ -72,7 +72,7 @@ Three-dimensional mesh data of parts, such as blades and engine bodies, have bee
 For better visualization and analysis, mesh data are requeied to be reconstructed from point cloud. Implict B-spline surface function is convenient for mesh reconstruction. First, we generate two inner data and outer data by moving original along the nomals, the two added data can gaurantee the direction of the surface. Then, we represent implict B-spline surface fitting as a least square problem. Finally, we add global tension constraint to control the smoothness and solve the least square problem. Now, we are trying to improve the local accuracy in high-curvature areas.
 </p>
 
-
+![surface reconstruction](../images/surface.png)
 
 Teaching and Volunteer
 ======
