@@ -48,6 +48,7 @@ In robotic inspection of aviation parts, achieving accurate pairwise point cloud
 </p>
 
 ![registration with GMM](../images/reg_GMM.png)
+![blade registration gif](../images/reg_blade.gif)
 
 3.Anosotropic Bilateral Mesh Filtering
 --------
