@@ -74,6 +74,18 @@ For better visualization and analysis, mesh data are requeied to be reconstructe
 
 ![surface reconstruction](../images/surface.png)
 
+<br />
+
+4.Software development for architectural point cloud
+--------
+
+<p style="text-align:justify; text-justify:inter-ideograph;">
+
+I have developed two softwares for processing architectural point cloud. The first one is based on QT framework and includes data format conversion (ifc, obj, and pcd), data filtering and block, registration beteween measured data and model data, and construction progress estimation. The second one is based on MicroStation platform and includes data preprocessing, components extration (I-beam, angle steel, and tubes), and parameter calculation.
+
+</p>
+
+
 Teaching and Volunteer
 ======
 
