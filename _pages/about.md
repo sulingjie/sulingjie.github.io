@@ -23,7 +23,7 @@ Publications
 ======
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-1. <strong>L. Su</strong>, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” <i>IEEE Trans. Instrum. Meas.</i>, 2024, Under Review.  <br>
+1. <strong>L. Su</strong>, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” <i>IEEE Trans. Instrum. Meas.</i>, 2024, Under Review.  <br><br>
 
 2. <strong>L. Su</strong> et al., “An adaptive anisotropic bilateral filtering method for mesh data in scale space,” <i>Meas. Sci. Technol.</i>, vol 35, no. 6, 2024, <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad317e">doi: 10.1088/1361-6501/ad317e</a>
    
@@ -44,7 +44,7 @@ In the point cloud measurement process, the 3D sensor needs to be positioned at 
 2.Probability-based Point Cloud Registration
 --------
 <p style="text-align:justify; text-justify:inter-ideograph;">
-In the area of robotic inspection, achieving accurate pairwise point cloud registration between scanned and model data is essential. However, noise and outliers generated in robotic scanned data can compromise registration accuracy. To mitigate this problem, this project proposes a probability-based registration method utilizing Gaussian Mixture Model (GMM) with local consistency constraint. This method converts the registration problem into a model-fitting one, constraining the similarity of posterior distributions between neighboring points to enhance correspondence robustness. We employ the Expectation Maximization algorithm iteratively to find the optimal rotation matrix and translation vector while obtaining GMM parameters. Both E-step and M-step have closed-form solutions. Extensive simulation and actual experiments confirm the method's robustness and accuracy. <br />
+In the area of robotic inspection, achieving accurate pairwise point cloud registration between scanned and model data is essential. However, noise and outliers generated in robotic scanned data can compromise registration accuracy. To mitigate this problem, this project proposes a probability-based registration method utilizing Gaussian Mixture Model (GMM) with local consistency constraint. This method converts the registration problem into a model-fitting one, constraining the similarity of posterior distributions between neighboring points to enhance correspondence robustness. We employ the Expectation Maximization algorithm iteratively to find the optimal rotation matrix and translation vector while obtaining GMM parameters. Both E-step and M-step have closed-form solutions. Extensive simulation and actual experiments confirm the method's robustness and accuracy. <brs><br>
 Now We are currently attempting to extend this method to multi-view registration to simultaneously estimate the accurate poses of multiple point clouds.
 </p>
 
