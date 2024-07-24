@@ -63,7 +63,9 @@ Now I am currently attempting to extend this method to multi-view registration t
 Three-dimensional mesh data of parts, such as blades and engine bodies, have been widely used in industrial fields. Due to the different kinds of noise during mesh acquisition and machining deficiency of parts, the mesh quality is often insufficient for subsequent operations. Therefore, mesh denoising is a necessary and critical procedure to improve mesh quality. This project proposed an adaptive anisotropic bilateral filtering method for mesh data in scale space. Firstly, the mesh is decomposed into a smooth base with low frequency and a height vector field with high frequency based on scale space theory. The denoising of the vertex spatial field is transformed into the denoising of the height vector field, focusing on high-frequency information. Secondly, the bilateral filter scheme with the anisotropic Gaussian kernel is proposed to denoise the height vector field, removing noise mixed with features. The parameters in the bilateral filter scheme are chosen adaptively by maximizing the designed probability density function. This method can achieve mesh denoising as well as preserving geometry features.
 </p>
 
-![registration with GMM](../images/mesh_denoise.png)
+<p align="center">
+    <img src="../images/mesh_denoise.png" alt="mesh denoising" style="width: 80%;">
+</p>
 
 4.Implicit B-spline Surface Reconstruction
 --------
