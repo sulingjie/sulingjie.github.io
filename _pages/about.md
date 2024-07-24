@@ -86,17 +86,17 @@ We have developed two softwares for processing architectural point cloud based o
 </p>
 
 
-Teaching and Volunteer
+Volunteering and Teaching
 ======
 
-1.Volunteer for high-school student tour in HUST
+1.Volunteer for high-school student tours at HUST
 --------
 
 <p style="float: left; width: 50%;">
     <img src="../images/volunteer.png" alt="volunteer image" style="width: 95%;">
 </p>
 <p style="text-align:justify; text-justify:inter-ideograph;">
-I once volunteered to guide high school students visiting Huazhong University of Science and Technology (HUST). My main responsibilities included leading them to various sites around the campus, introducing them to information about the university, and providing details about our school's development and some of our research achievements. <br>
+I once volunteered to guide high school students visiting Huazhong University of Science and Technology (HUST). My main responsibilities included leading them on campus tours, providing information about the university, and sharing details about our school's development and research achievements. <br>
 </p>
 
 <br />
@@ -108,6 +108,6 @@ I once volunteered to guide high school students visiting Huazhong University of
     <img src="../images/teaching_assistant.png" alt="volunteer image" style="width: 95%;">
 </p>
 <p style="text-align:justify; text-justify:inter-ideograph;">
-I am serving as a teaching assistant for a robotics measurement course during a summer exchange program at Huazhong University of Science and Technology. My responsibilities include explaining the principles and operational procedures of robotic control, the principles and usage of 3D scanners, and the principles of point cloud registration to eight exchange students from France, as well as guiding them in completing robotic measurement experiments.
+I once served as a teaching assistant for a robotics measurement course during the summer exchange program (Global HUST) at Huazhong University of Science and Technology. My responsibilities included explaining the principles and operational procedures of robotic control, the imaging theory and usage of 3D scanners, and the algorithm of point cloud registration to eight exchange students from France, as well as guiding them in completing robotic measurement experiments.
 </p>
 
