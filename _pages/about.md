@@ -44,8 +44,8 @@ In the point cloud measurement process, the 3D sensor needs to be positioned at 
 2.Probability-based Point Cloud Registration
 --------
 <p style="text-align:justify; text-justify:inter-ideograph;">
-In the area of robotic inspection, achieving accurate pairwise point cloud registration between scanned and model data is essential. However, noise and outliers generated in robotic scanned data can compromise registration accuracy. To mitigate this problem, this project proposes a probability-based registration method utilizing Gaussian Mixture Model (GMM) with local consistency constraint. This method converts the registration problem into a model-fitting one, constraining the similarity of posterior distributions between neighboring points to enhance correspondence robustness. We employ the Expectation Maximization algorithm iteratively to find the optimal rotation matrix and translation vector while obtaining GMM parameters. Both E-step and M-step have closed-form solutions. Extensive simulation and actual experiments confirm the method's robustness and accuracy. <br><br>
-Now We are currently attempting to extend this method to multi-view registration to simultaneously estimate the accurate poses of multiple point clouds.
+In the area of robotic inspection, achieving accurate pairwise point cloud registration between scanned and model data is essential. However, noise and outliers generated in robotic scanned data can compromise registration accuracy. To mitigate this problem, this project proposes a probability-based registration method utilizing Gaussian Mixture Model (GMM) with local consistency constraint. This method converts the registration problem into a model-fitting one, constraining the similarity of posterior distributions between neighboring points to enhance correspondence robustness. I employ the Expectation Maximization algorithm iteratively to find the optimal rotation matrix and translation vector while obtaining GMM parameters. Both E-step and M-step have closed-form solutions. Extensive simulation and actual experiments confirm the method's robustness and accuracy. <br><br>
+Now I am currently attempting to extend this method to multi-view registration to simultaneously estimate the accurate poses of multiple point clouds.
 </p>
 
 <p style="float: left; width: 55%;">
@@ -69,7 +69,7 @@ Three-dimensional mesh data of parts, such as blades and engine bodies, have bee
 --------
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-For better visualization and analysis, surface function are required to be reconstructed from point cloud data. Implict B-spline (IBS) function is a widely-used and convenient format for representing surfaces. This project focuses on estimating the IBS surface with point cloud data. Firstly, we generate internal data and external data by moving the original data along the normals. These added data can gaurantee the orientation of the surface. Next, we represent the implict B-spline surface fitting as a least square problem. Finally, we incorporate a global tension constraint to control the smoothness and solve the least squares problem. Now, we are working on improving local accuracy in high-curvature areas.
+For better visualization and analysis, surface function are required to be reconstructed from point cloud data. Implict B-spline (IBS) function is a widely-used and convenient format for representing surfaces. This project focuses on estimating the IBS surface with point cloud data. Firstly, I generate internal data and external data by moving the original data along the normals. These added data can gaurantee the orientation of the surface. Next, I represent the implict B-spline surface fitting as a least square problem. Finally, we incorporate a global tension constraint to control the smoothness and solve the least squares problem. Now, I am working on improving local accuracy in high-curvature areas.
 </p>
 
 <p style="float: left; width: 100%;">
@@ -82,9 +82,7 @@ For better visualization and analysis, surface function are required to be recon
 --------
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-
-I have developed two softwares for processing architectural point cloud. The first one is based on QT framework and includes data format conversion (ifc, obj, and pcd), data filtering and block, registration beteween measured data and model data, and construction progress estimation. The second one is based on MicroStation platform and includes data preprocessing, components extration (I-beam, angle steel, and tubes), and parameter calculation.
-
+We have developed two softwares for processing architectural point cloud based on QT framework and MicroStation platform. The following functions are included. (1) Data formate transformation: support for various formats, including ifc, obj, las, and pcd. (2) Preprocessing of architecture point cloud: including down-sampling, registration, and filtering. (3) construction progess estimation. (4) component extration, including I-beam, angle steel, and tubes, and parameter calcuclation.
 </p>
 
 
