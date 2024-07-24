@@ -39,7 +39,9 @@ Research Experience
 In the point cloud measurement process, the 3D sensor needs to be positioned at various locations due to the limited working range or the large size of the measured parts, such as a car body. This project focuses on how to integrete the point clouds from different perspetives through the following procedures. (1) Estabilishing binocular imaging model and calibrating the internal and external parameters of the stereo cameras. (2) Reconstructing the centers of marked points, including elliptic fitting, polar constraints and triangulation. Matching marked points under different perspectives with spatial invariant characteristics and registering point clouds coarsly. (3) Constructing the objective function of minimizing the mean square error of corresponding points in overlapping areas. Solving the optimization problem with gradient decent method and graph optimization method
 </p>
 
-![measurement scene](../images/multi_reg.png)
+<p align="center">
+    <img src="../images/multi_reg.png" alt="measurement scene" style="width: 100%;">
+</p>
 
 2.Probability-based Point Cloud Registration
 --------
@@ -64,7 +66,7 @@ Three-dimensional mesh data of parts, such as blades and engine bodies, have bee
 </p>
 
 <p align="center">
-    <img src="../images/mesh_denoise.png" alt="mesh denoising" style="width: 80%;">
+    <img src="../images/mesh_denoise.png" alt="mesh denoising" style="width: 70%;">
 </p>
 
 4.Implicit B-spline Surface Reconstruction
@@ -74,8 +76,8 @@ Three-dimensional mesh data of parts, such as blades and engine bodies, have bee
 For better visualization and analysis, surface function are required to be reconstructed from point cloud data. Implict B-spline (IBS) function is a widely-used and convenient format for representing surfaces. This project focuses on estimating the IBS surface with point cloud data. Firstly, I generate internal data and external data by moving the original data along the normals. These added data can gaurantee the orientation of the surface. Next, I represent the implict B-spline surface fitting as a least square problem. Finally, we incorporate a global tension constraint to control the smoothness and solve the least squares problem. Now, I am working on improving local accuracy in high-curvature areas.
 </p>
 
-<p style="float: left; width: 100%;">
-    <img src="../images/surface.png" alt="surface reconstruction" style="width: 90%;">
+<p align="center">
+    <img src="../images/surface.png" alt="surface reconstruction" style="width: 70%;">
 </p>
 
 <br />
