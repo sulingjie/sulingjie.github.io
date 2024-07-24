@@ -7,27 +7,25 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align:justify; text-justify:inter-ideograph;">
-My name is Su Lingjie(苏凌杰), a second-year master's student at the State Key Laboratory of Intelligent Manufacturing Equipment and Technology at Huazhong University of Science and Technology (HUST), under the supervision of Prof. WenLong Li <a href="https://mse.hust.edu.cn/info/1142/1340.htm">Prof. Wenlong Li</a>. I previously earned my bachlor's degree from the School of Mechanical Science and Engineering at HUST. My research focuses on point cloud registration, surface reconstruction, and mesh denoising. These research topics enhance the ability of robots to perceive and understand their surroundings, providing high-quality data for robotic inspection and measurement. <br><br>
+My name is Su Lingjie(苏凌杰), a second-year master's student at the State Key Laboratory of Intelligent Manufacturing Equipment and Technology at Huazhong University of Science and Technology (HUST), under the supervision of <a href="https://mse.hust.edu.cn/info/1142/1340.htm">Prof. Wenlong Li</a>. I previously earned my bachlor's degree from the School of Mechanical Science and Engineering at HUST. My research focuses on point cloud registration, surface reconstruction, and mesh denoising. These research topics enhance the ability of robots to perceive and understand their surroundings, providing high-quality data for robotic inspection and measurement. <br><br>
 
 
 
-<strong>Algorithm Theory</strong>: The mathematical theory in my research includs optimization theory, statistics (especially Gaussian Mixture Model and EM algorithm), iterative solution method and preconditioning of linear function, and bilateral filtering method. <br><br>
+<strong>Algorithm Theory</strong>: The mathematical theory in my research includs optimization theory, statistics (especially Gaussian Mixture Model and EM algorithm), matrix theory, iterative solution methods and preconditioning of linear functions, and bilateral filtering method. <br><br>
 
 <strong>Algorithm Application</strong>: These designed algorithms can be used for robot pose estimation, localization of parts, evaluation of machining quality, and visualization.
 
 </p>
 
-you can find my CV [here](../assets/CV.pdf).
+You can find my CV [here](../assets/CV.pdf).
 
 Publications
 ======
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-1. <strong>L. Su</strong>, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” 
-<i>IEEE Trans. Instrum. Meas.</i>, 2024, Under Review.  <br>
-  
-2. <strong>L. Su</strong> et al., “An adaptive anisotropic bilateral filtering method for mesh data in scale space,” <i>Meas. Sci. Technol.</i>, vol 35, no. 6, 
-2024, <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad317e">doi: 10.1088/1361-6501/ad317e</a>
+1. <strong>L. Su</strong>, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” <i>IEEE Trans. Instrum. Meas.</i>, 2024, Under Review.  <br>
+
+2. <strong>L. Su</strong> et al., “An adaptive anisotropic bilateral filtering method for mesh data in scale space,” <i>Meas. Sci. Technol.</i>, vol 35, no. 6, 2024, <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad317e">doi: 10.1088/1361-6501/ad317e</a>
    
 </p>
 
@@ -38,7 +36,7 @@ Research Experience
 1.Point Cloud Reconstruction and Multi-view Registration
 --------
 <p style="text-align:justify; text-justify:inter-ideograph;">
-In the point cloud measurement process, the 3D sensor needs to be equipped at different positions due to the limited working range of the sensor or large size of the measured parts (such as car body). This project focuses on how to integrete the point clouds from different perspetives with the following procedures. (1) Estabilished binocular imaging model and calibrated the internal and external parameters of camera. Reconstructed the centers of marked points, including elliptic fitting, poar constraints and triangulartion. Matched marked points under different perspectives with spatial invariant characteristics and registered point clouds coarsly. (2) Construced the objective function of minimizing the mean square error of correspondent points in overlapping areas. Used gradient decent method and graph optimization method to solve the optimization problem.
+In the point cloud measurement process, the 3D sensor needs to be positioned at various locations due to the limited working range or large size of the measured parts, such as a car body. This project focuses on how to integrete the point clouds from different perspetives through the following procedures. (1) Estabilishint binocular imaging model and calibrating the internal and external parameters of the stereo camera. (2) Reconstructing the centers of marked points, including elliptic fitting, poar constraints and triangulartion. Matching marked points under different perspectives with spatial invariant characteristics and registering point clouds coarsly. (2) Constructing the objective function of minimizing the mean square error of corresponding points in overlapping areas. Solving the optimization problem with gradient decent method and graph optimization method
 </p>
 
 ![measurement scene](../images/multi_reg.png)
