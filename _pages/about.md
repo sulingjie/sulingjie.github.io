@@ -69,7 +69,7 @@ Three-dimensional mesh data of parts, such as blades and engine bodies, have bee
 --------
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-For better visualization and analysis, mesh data are requeied to be reconstructed from point cloud. Implict B-spline surface function is convenient for mesh reconstruction. First, we generate two inner data and outer data by moving original along the nomals, the two added data can gaurantee the direction of the surface. Then, we represent implict B-spline surface fitting as a least square problem. Finally, we add global tension constraint to control the smoothness and solve the least square problem. Now, we are trying to improve the local accuracy in high-curvature areas.
+For better visualization and analysis, surface function are required to be reconstructed from point cloud data. Implict B-spline (IBS) function is a widely-used and convenient format for representing surfaces. This project focuses on estimating the IBS surface with point cloud data. Firstly, we generate internal data and external data by moving the original data along the normals. These added data can gaurantee the orientation of the surface. Next, we represent the implict B-spline surface fitting as a least square problem. Finally, we incorporate a global tension constraint to control the smoothness and solve the least squares problem. Now, we are working on improving local accuracy in high-curvature areas.
 </p>
 
 <p style="float: left; width: 100%;">
@@ -78,7 +78,7 @@ For better visualization and analysis, mesh data are requeied to be reconstructe
 
 <br />
 
-4.Software development for architectural point cloud
+5.Software development for architectural point cloud
 --------
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
