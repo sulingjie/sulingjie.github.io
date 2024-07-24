@@ -79,8 +79,7 @@ For better visualization and analysis, surface function are required to be recon
 <p align="center">
     <img src="../images/surface.png" alt="surface reconstruction" style="width: 70%;">
 </p>
-
-<br />
+hi
 
 5.Software development for architectural point cloud
 --------
