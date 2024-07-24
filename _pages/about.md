@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align:justify; text-justify:inter-ideograph;">
-I am Su Lingjie(苏凌杰), a master student in the second year. from the State Key Laboratory of Intelligent Manufacturing in Huazhong University of Science and Technology (HUST). supervised by Prof. WenLong Li. Before this, I obtained bachlor degree in School of Mechanical Science and Engineering in HUST. My research focuses on point cloud registration, surface reconstruction, and mesh denoising. The research topics provide the robots the ability to percept and understand the surroundings and high quality data for robotic inspection and measurement. <br><br>
+My name is Su Lingjie(苏凌杰), a second-year master's student at the State Key Laboratory of Intelligent Manufacturing Equipment and Technology at Huazhong University of Science and Technology (HUST), under the supervision of Prof. WenLong Li. I previously earned my bachlor's degree from the School of Mechanical Science and Engineering at HUST. My research focuses on point cloud registration, surface reconstruction, and mesh denoising. These research topics enhance the ability of robots to perceive and understand their surroundings, providing high-quality data for robotic inspection and measurement. <br><br>
 
 
 <strong>Algorithm Theory</strong>: The mathematical theory in my research includs optimization theory, statistics (especially Gaussian Mixture Model and EM algorithm), iterative solution method and preconditioning of linear function, and bilateral filtering method. <br><br>
@@ -72,7 +72,9 @@ Three-dimensional mesh data of parts, such as blades and engine bodies, have bee
 For better visualization and analysis, mesh data are requeied to be reconstructed from point cloud. Implict B-spline surface function is convenient for mesh reconstruction. First, we generate two inner data and outer data by moving original along the nomals, the two added data can gaurantee the direction of the surface. Then, we represent implict B-spline surface fitting as a least square problem. Finally, we add global tension constraint to control the smoothness and solve the least square problem. Now, we are trying to improve the local accuracy in high-curvature areas.
 </p>
 
-![surface reconstruction](../images/surface.png)
+<p style="float: left; width: 100%;">
+    <img src="../images/surface.png" alt="surface reconstruction" style="width: 90%;">
+</p>
 
 <br />
 
