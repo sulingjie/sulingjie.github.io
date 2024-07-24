@@ -14,7 +14,6 @@ My name is Su Lingjie(苏凌杰), a second-year master's student at the State Ke
 <strong>Algorithm Theory</strong>: The mathematical theory in my research includs optimization theory, statistics (especially Gaussian Mixture Model and EM algorithm), matrix theory, iterative solution methods and preconditioning of linear functions, and bilateral filtering method. <br><br>
 
 <strong>Algorithm Application</strong>: These designed algorithms can be used for robot pose estimation, localization of parts, evaluation of machining quality, and visualization.
-
 </p>
 
 You can find my CV [here](../assets/CV.pdf).
@@ -75,11 +74,8 @@ Three-dimensional mesh data of parts, such as blades and engine bodies, have bee
 <p style="text-align:justify; text-justify:inter-ideograph;">
 For better visualization and analysis, surface function are required to be reconstructed from point cloud data. Implict B-spline (IBS) function is a widely-used and convenient format for representing surfaces. This project focuses on estimating the IBS surface with point cloud data. Firstly, I generate internal data and external data by moving the original data along the normals. These added data can gaurantee the orientation of the surface. Next, I represent the implict B-spline surface fitting as a least square problem. Finally, we incorporate a global tension constraint to control the smoothness and solve the least squares problem. Now, I am working on improving local accuracy in high-curvature areas.
 </p>
-
 <p align="center">
-    <img src="../images/surface.png" alt="surface reconstruction" style="width: 70%;">
-</p>
-hi
+    <img src="../images/surface.png" alt="surface reconstruction" style="width: 70%;"></p>
 
 5.Software development for architectural point cloud
 --------
