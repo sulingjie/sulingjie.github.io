@@ -80,7 +80,7 @@ For better visualization and analysis, surface function are required to be recon
 5.Software development for architectural point cloud
 -------
 <p style="text-align:justify; text-justify:inter-ideograph;">
-We have developed two softwares for processing architectural point cloud based on QT framework and MicroStation platform. The following functions are included. (1) Data formate transformation: support for various formats, including ifc, obj, las, and pcd. (2) Preprocessing of architecture point cloud: including down-sampling, registration, and filtering. (3) construction progess estimation. (4) component extration, including I-beam, angle steel, and tubes, and parameter calcuclation.
+We have developed two softwares for processing architectural point cloud based on QT framework and MicroStation platform. The following functions are included. (1) Data formate transformation: support for various formats, including ifc, obj, las, and pcd. (2) Preprocessing of architecture point cloud: including down-sampling, registration, and filtering. (3) Construction progess estimation. (4) Component extraction, including I-beam, angle steel, and tubes, and parameter calculation.
 </p>
 -->
 
