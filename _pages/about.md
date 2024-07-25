@@ -32,7 +32,7 @@ Publications
 Research Experience
 ======
 
-1.Point Cloud Reconstruction and Multi-view Registration
+1.Multi-view Point Cloud Registration
 --------
 <p style="text-align:justify; text-justify:inter-ideograph;">
 In the point cloud measurement process, the 3D sensor needs to be positioned at various locations due to the limited working range or the large size of the measured parts, such as a car body. This project focuses on how to integrete the point clouds from different perspetives through the following procedures. (1) Estabilishing binocular imaging model and calibrating the internal and external parameters of the stereo cameras. (2) Reconstructing the centers of marked points, including elliptic fitting, polar constraints and triangulation. Matching marked points under different perspectives with spatial invariant characteristics and registering point clouds coarsly. (3) Constructing the objective function of minimizing the mean square error of corresponding points in overlapping areas. Solving the optimization problem with gradient decent method and graph optimization method
@@ -58,7 +58,7 @@ Now I am currently attempting to extend this method to multi-view registration t
 
 <br />
 
-3.Anosotropic Bilateral Mesh Filtering
+3.Anosotropic Bilateral Mesh Filter
 --------
 <p style="text-align:justify; text-justify:inter-ideograph;">
 Three-dimensional mesh data of parts, such as blades and engine bodies, have been widely used in industrial fields. Due to the different kinds of noise during mesh acquisition and machining deficiency of parts, the mesh quality is often insufficient for subsequent operations. Therefore, mesh denoising is a necessary and critical procedure to improve mesh quality. This project proposed an adaptive anisotropic bilateral filtering method for mesh data in scale space. Firstly, the mesh is decomposed into a smooth base with low frequency and a height vector field with high frequency based on scale space theory. The denoising of the vertex spatial field is transformed into the denoising of the height vector field, focusing on high-frequency information. Secondly, the bilateral filter scheme with the anisotropic Gaussian kernel is proposed to denoise the height vector field, removing noise mixed with features. The parameters in the bilateral filter scheme are chosen adaptively by maximizing the designed probability density function. This method can achieve mesh denoising as well as preserving geometry features.
