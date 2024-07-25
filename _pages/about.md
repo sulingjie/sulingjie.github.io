@@ -22,7 +22,7 @@ Publications
 ======
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-1. <strong>L. Su</strong>, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” <i>IEEE Trans. Instrum. Meas.</i>, 2024, Under Review.  <br><br>
+1. <strong>L. Su</strong>, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” <i>IEEE Trans. Instrum. Meas.</i>, 2024, Under Review. <a href="https://arxiv.org/pdf/2407.17183">preprint</a>  <br><br>
 
 2. <strong>L. Su</strong> et al., “An adaptive anisotropic bilateral filtering method for mesh data in scale space,” <i>Meas. Sci. Technol.</i>, vol 35, no. 6, 2024, <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad317e">doi: 10.1088/1361-6501/ad317e</a>
    
@@ -76,14 +76,13 @@ For better visualization and analysis, surface function are required to be recon
 </p>
 <p align="center">
     <img src="../images/surface.png" alt="surface reconstruction" style="width: 70%;"></p>
-
+<!--
 5.Software development for architectural point cloud
---------
-
+-------
 <p style="text-align:justify; text-justify:inter-ideograph;">
 We have developed two softwares for processing architectural point cloud based on QT framework and MicroStation platform. The following functions are included. (1) Data formate transformation: support for various formats, including ifc, obj, las, and pcd. (2) Preprocessing of architecture point cloud: including down-sampling, registration, and filtering. (3) construction progess estimation. (4) component extration, including I-beam, angle steel, and tubes, and parameter calcuclation.
 </p>
-
+-->
 
 Volunteering and Teaching
 ======
