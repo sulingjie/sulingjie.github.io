@@ -24,7 +24,7 @@ Publications
 <p style="text-align:justify; text-justify:inter-ideograph;">
 1. <strong>L. Su</strong>,W. Xu, S. Zhao, Y. Cheng, and W. Li, “A robust probability-based joint registration method of multiple point clouds considering local consistency,” in <i>Proc. IEEE Int. Conf. Robot. Autom.</i> (ICRA), 2025, Submitted, <a href="https://arxiv.org/pdf/2409.09682">preprint</a>. <br><br>
   
-2. <strong>L. Su</strong>, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” <i>IEEE Trans. Instrum. Meas.</i>, 2024, Under Review, <a href="https://arxiv.org/pdf/2407.17183">preprint</a>.  <br><br>
+2. <strong>L. Su</strong>, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” <i>IEEE Trans. Instrum. Meas.</i>, 2024, Major Revisions, <a href="https://arxiv.org/pdf/2407.17183">preprint</a>.  <br><br>
 
 3. <strong>L. Su</strong> et al., “An adaptive anisotropic bilateral filtering method for mesh data in scale space,” <i>Meas. Sci. Technol.</i>, vol 35, no. 6, 2024, <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad317e">doi: 10.1088/1361-6501/ad317e</a>.
    
