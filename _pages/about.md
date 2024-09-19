@@ -16,7 +16,7 @@ My name is Su Lingjie(苏凌杰), a second-year master's student at the State Ke
 <strong>Algorithm Application</strong>: These designed algorithms can be used for robot pose estimation, localization of parts, evaluation of machining quality, and visualization.
 </p>
 
-You can find my CV [here](../assets/CV.pdf).
+You can find my CV [here](../assets/CV.pdf). Some slides of my research experience are [here](../assets/Research.pdf).
 
 Publications
 ======
