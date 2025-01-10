@@ -22,7 +22,7 @@ Publications
 ======
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-1. <strong>L. Su</strong>,W. Xu, S. Zhao, Y. Cheng, and W. Li, “A robust probability-based joint registration method of multiple point clouds considering local consistency,” in <i>Proc. IEEE Int. Conf. Robot. Autom.</i> (ICRA), 2025, Submitted, <a href="https://arxiv.org/pdf/2409.09682">preprint</a>. <br><br>
+1. <strong>L. Su</strong>,W. Xu, S. Zhao, Y. Cheng, and W. Li, “A robust probability-based joint registration method of multiple point clouds considering local consistency,” in <i>Proc. IEEE Int. Conf. Robot. Autom.</i> (ICRA), 2025, Submitted, <a href="https://arxiv.org/pdf/2409.09682">doi: 10.1109/TIM.2024.3480198</a>. <br><br>
   
 2. <strong>L. Su</strong>, W. Xu, and W. Li, “Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model,” <i>IEEE Trans. Instrum. Meas.</i>, 2024, <a href="https://ieeexplore.ieee.org/document/10716694">preprint</a>.  <br><br>
 
