@@ -53,6 +53,6 @@ I once volunteered to guide high school students visiting Huazhong University of
     <img src="../images/teaching_assistant.png" alt="volunteer image" style="width: 95%;">
 </p>
 <p style="text-align:justify; text-justify:inter-ideograph;">
-I once served as a teaching assistant for a robotics measurement course during the summer exchange program (Global HUST) at Huazhong University of Science and Technology. My responsibilities included explaining the principles and operational procedures of robotic control, the imaging theory and usage of 3D scanners, and the algorithm of point cloud registration to eight exchange students from France, as well as guiding them in completing robotic measurement experiments.
+I once served as a teaching assistant for an experimental course during the summer exchange program (Global HUST) at Huazhong University of Science and Technology. My responsibilities included explaining the principles and operational procedures of imaging theory and practical use of 3D scanning devices, as well as the fundamentals of 3D data registration algorithms to eight exchange students from France. I also guided them through the completion of a series of experimental projects involving data acquisition and processing.
 </p>
 
