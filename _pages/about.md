@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align:justify; text-justify:inter-ideograph;">
-My name is Lingjie Su (苏凌杰). I am a first-year Ph.D. student at the University of Minnesota Twin Cities, advised by Prof. <a href="https://sunju.org/">Ju Sun</a>. I received my bachelor's and master's degrees from Huazhong University of Science and Technology, where I was advised by Prof. Wenlong Li and Prof. Wei Xu.
+My name is Lingjie Su (苏凌杰). I am a first-year Ph.D. student in Computer Science at the University of Minnesota Twin Cities, advised by Prof. <a href="https://sunju.org/">Ju Sun</a>. I received my bachelor's and master's degrees from Huazhong University of Science and Technology, where I was advised by Prof. Wenlong Li and Prof. Wei Xu.
 </p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
@@ -20,7 +20,7 @@ Selected Publications
 ======
 
 
-1. J. Chen, <strong>Lingjie Su</strong>, L. Peng, Y. Travadi, R. Zhang, and J. Sun, "A systematic evaluation of imbalance handling methods in biomedical binary classification," <i>arxiv preprint</i>, <a href="https://arxiv.org/pdf/2605.14147">arXiv:2605.14147</a>, 2026.
+1. J. Chen, <strong>L. Su</strong>, L. Peng, Y. Travadi, R. Zhang, and J. Sun, "A systematic evaluation of imbalance handling methods in biomedical binary classification," <i>arxiv preprint</i>, <a href="https://arxiv.org/pdf/2605.14147">arXiv:2605.14147</a>, 2026.
 
 2. <strong>Lingjie Su</strong>, W. Xu, and W. Li, "Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model," <i>IEEE Trans. Instrum. Meas.</i>, vol. 73, pp. 1-12, 2024, <a href="https://ieeexplore.ieee.org/document/10716694">doi: 10.1109/TIM.2024.3480198</a>.
 
