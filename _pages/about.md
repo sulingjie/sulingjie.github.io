@@ -29,6 +29,6 @@ Selected Publications
 News
 ======
 
-* Aug. 2: Arrived in Minnesota.
-* Won first place in the UMN Health Data Competition. [Announcement](https://carlsonschool.umn.edu/health-data-competition)
-* Our paper on imbalance handling methods in biomedical binary classification is available on [arXiv](https://arxiv.org/pdf/2605.14147).
+* Our paper on imbalance handling methods in biomedical binary classification is now available on [arXiv](https://arxiv.org/pdf/2605.14147). In this work, we systematically evaluate commonly used strategies for handling class imbalance in biomedical binary classification tasks.
+* Won first place in the UMN Health Data Competition. Our team worked on a health data analytics problem and received first place in the competition. [Announcement](https://carlsonschool.umn.edu/health-data-competition)
+* Aug. 2: Arrived in Minnesota. I began my Ph.D. journey in Computer Science at the University of Minnesota Twin Cities.
