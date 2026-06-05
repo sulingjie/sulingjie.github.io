@@ -25,3 +25,10 @@ Selected Publications
 2. <strong>Lingjie Su</strong>, W. Xu, and W. Li, "Robust point cloud registration in robotic inspection with locally consistent gaussian mixture model," <i>IEEE Trans. Instrum. Meas.</i>, vol. 73, pp. 1-12, 2024, <a href="https://ieeexplore.ieee.org/document/10716694">doi: 10.1109/TIM.2024.3480198</a>.
 
 3. <strong>Lingjie Su</strong>, W. Xu, S. Zhao, Y. Cheng, and W. Li, "A robust probability-based joint registration method of multiple point clouds considering local consistency," <i>arxiv preprint</i>, <a href="https://arxiv.org/pdf/2409.09682">arXiv:2409.09682</a>, 2024.
+
+News
+======
+
+* Aug. 2: Arrived in Minnesota.
+* Won first place in the UMN Health Data Competition. [Announcement](https://carlsonschool.umn.edu/health-data-competition)
+* Our paper on imbalance handling methods in biomedical binary classification is available on [arXiv](https://arxiv.org/pdf/2605.14147).
