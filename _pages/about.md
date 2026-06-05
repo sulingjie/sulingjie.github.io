@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align:justify; text-justify:inter-ideograph;">
+<p>
 My name is Lingjie Su (苏凌杰). I am a first-year Ph.D. student in Computer Science at the University of Minnesota Twin Cities, advised by Prof. <a href="https://sunju.org/">Ju Sun</a>. I received my bachelor's and master's degrees from Huazhong University of Science and Technology, where I was advised by Prof. Wenlong Li and Prof. Wei Xu.
 </p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;">
+<p>
 My current research interests broadly include uncertainty, generative models such as flow matching and diffusion models, and optimization. I am interested in developing reliable and flexible machine learning methods with both theoretical and practical motivations.
 </p>
 

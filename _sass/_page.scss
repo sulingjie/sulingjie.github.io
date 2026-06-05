@@ -49,6 +49,9 @@
 }
 
 .page__content {
+  font-family: $header-font-family;
+  font-weight: 400;
+  line-height: 1.6;
 
   h2 {
     padding-bottom: 0.5em;
